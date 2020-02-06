@@ -1,0 +1,7 @@
+C:\Users\3.D\source\repos\buricmariopripremazaispit-1.zadatak\buricmariopripremazaispit-1.zadatak\bin\Debug\buricmariopripremazaispit-1.zadatak.exe.config
+C:\Users\3.D\source\repos\buricmariopripremazaispit-1.zadatak\buricmariopripremazaispit-1.zadatak\bin\Debug\buricmariopripremazaispit-1.zadatak.exe
+C:\Users\3.D\source\repos\buricmariopripremazaispit-1.zadatak\buricmariopripremazaispit-1.zadatak\bin\Debug\buricmariopripremazaispit-1.zadatak.pdb
+C:\Users\3.D\source\repos\buricmariopripremazaispit-1.zadatak\buricmariopripremazaispit-1.zadatak\obj\Debug\buricmariopripremazaispit-1.zadatak.csprojAssemblyReference.cache
+C:\Users\3.D\source\repos\buricmariopripremazaispit-1.zadatak\buricmariopripremazaispit-1.zadatak\obj\Debug\buricmariopripremazaispit-1.zadatak.csproj.CoreCompileInputs.cache
+C:\Users\3.D\source\repos\buricmariopripremazaispit-1.zadatak\buricmariopripremazaispit-1.zadatak\obj\Debug\buricmariopripremazaispit-1.zadatak.exe
+C:\Users\3.D\source\repos\buricmariopripremazaispit-1.zadatak\buricmariopripremazaispit-1.zadatak\obj\Debug\buricmariopripremazaispit-1.zadatak.pdb
