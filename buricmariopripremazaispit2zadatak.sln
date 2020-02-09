@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "buricmariopripremazaispit2zadatak", "buricmariopripremazaispit2zadatak\buricmariopripremazaispit2zadatak.csproj", "{DFFC358E-797D-4269-835A-72861BA1CDA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFFC358E-797D-4269-835A-72861BA1CDA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFFC358E-797D-4269-835A-72861BA1CDA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFFC358E-797D-4269-835A-72861BA1CDA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFFC358E-797D-4269-835A-72861BA1CDA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3731AE5F-E41D-4546-99D2-30F21F87E607}
+	EndGlobalSection
+EndGlobal
